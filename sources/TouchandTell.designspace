@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<designspace format="5.0">
+  <axes>
+    <axis tag="SHOW" name="show" minimum="0" maximum="100" default="0"/>
+  </axes>
+  <sources>
+    <source filename="TouchandTell_Regular.ufo" name="b01d4143" familyname="Touch and Tell" stylename="Regular">
+      <location>
+        <dimension name="show" xvalue="0"/>
+      </location>
+    </source>
+    <source filename="TouchandTell_Full.ufo" name="485955f6" familyname="Touch and Tell" stylename="Full">
+      <location>
+        <dimension name="show" xvalue="100"/>
+      </location>
+    </source>
+  </sources>
+  <lib>
+    <dict>
+      <key>fontra.projectGlyphSets</key>
+      <array>
+        <dict>
+          <key>commentChars</key>
+          <string>#</string>
+          <key>dataFormat</key>
+          <string>glyph-names</string>
+          <key>name</key>
+          <string>GF Latin Kernel</string>
+          <key>url</key>
+          <string>https://raw.githubusercontent.com/googlefonts/glyphsets/main/data/results/txt/nice-names/GF_Latin_Kernel.txt</string>
+        </dict>
+      </array>
+    </dict>
+  </lib>
+</designspace>
