@@ -23,6 +23,22 @@
       <layer colorID="0" name="C.0"/>
       <layer colorID="1" name="C.1"/>
     </ColorGlyph>
+     <ColorGlyph name="D">
+      <layer colorID="0" name="D.0"/>
+      <layer colorID="1" name="D.1"/>
+    </ColorGlyph>
+     <ColorGlyph name="E">
+      <layer colorID="0" name="E.0"/>
+      <layer colorID="1" name="E.1"/>
+    </ColorGlyph>
+     <ColorGlyph name="F">
+      <layer colorID="0" name="F.0"/>
+      <layer colorID="1" name="F.1"/>
+    </ColorGlyph>
+     <ColorGlyph name="G">
+      <layer colorID="0" name="G.0"/>
+      <layer colorID="1" name="G.1"/>
+    </ColorGlyph>
   </COLR>
 
 </ttFont>

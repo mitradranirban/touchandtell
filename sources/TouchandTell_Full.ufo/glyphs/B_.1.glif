@@ -1,20 +1,20 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <glyph name="B.1" format="2">
   <advance width="2048"/>
   <outline>
     <contour>
       <point x="1916" y="233.5" type="curve" smooth="yes"/>
-      <point x="1916" y="431.4940828033"/>
-      <point x="1753.7032218025" y="592"/>
+      <point x="1916" y="431.494"/>
+      <point x="1753.7" y="592"/>
       <point x="1553.5" y="592" type="curve" smooth="yes"/>
-      <point x="1353.2967781975" y="592"/>
-      <point x="1191" y="431.4940828033"/>
+      <point x="1353.3" y="592"/>
+      <point x="1191" y="431.494"/>
       <point x="1191" y="233.5" type="curve" smooth="yes"/>
-      <point x="1191" y="35.50591719670001"/>
-      <point x="1353.2967781975" y="-125"/>
+      <point x="1191" y="35.5059"/>
+      <point x="1353.3" y="-125"/>
       <point x="1553.5" y="-125" type="curve" smooth="yes"/>
-      <point x="1753.7032218025" y="-125"/>
-      <point x="1916" y="35.50591719670001"/>
+      <point x="1753.7" y="-125"/>
+      <point x="1916" y="35.5059"/>
     </contour>
     <contour>
       <point x="1554" y="593" type="curve"/>
