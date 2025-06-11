@@ -44,6 +44,60 @@
     <string>G_.0.glif</string>
     <key>G.1</key>
     <string>G_.1.glif</string>
+    <key>H</key>
+    <string>H_.glif</string>
+    <key>H.0</key>
+    <string>H_.0.glif</string>
+    <key>H.1</key>
+    <string>H_.1.glif</string>
+    <key>I</key>
+    <string>I_.glif</string>
+    <key>I.0</key>
+    <string>I_.0.glif</string>
+    <key>I.1</key>
+    <string>I_.1.glif</string>
+    <key>J</key>
+    <string>J_.glif</string>
+    <key>J.0</key>
+    <string>J_.0.glif</string>
+    <key>J.1</key>
+    <string>J_.1.glif</string>
+    <key>K</key>
+    <string>K_.glif</string>
+    <key>K.0</key>
+    <string>K_.0.glif</string>
+    <key>K.1</key>
+    <string>K_.1.glif</string>
+    <key>L</key>
+    <string>L_.glif</string>
+    <key>L.0</key>
+    <string>L_.0.glif</string>
+    <key>L.1</key>
+    <string>L_.1.glif</string>
+    <key>M</key>
+    <string>M_.glif</string>
+    <key>M.0</key>
+    <string>M_.0.glif</string>
+    <key>M.1</key>
+    <string>M_.1.glif</string>
+    <key>N</key>
+    <string>N_.glif</string>
+    <key>N.0</key>
+    <string>N_.0.glif</string>
+    <key>N.1</key>
+    <string>N_.1.glif</string>
+    <key>O</key>
+    <string>O_.glif</string>
+    <key>O.0</key>
+    <string>O_.0.glif</string>
+    <key>O.1</key>
+    <string>O_.1.glif</string>
+    <key>P</key>
+    <string>P_.glif</string>
+    <key>P.0</key>
+    <string>P_.0.glif</string>
+    <key>P.1</key>
+    <string>P_.1.glif</string>
     <key>a</key>
     <string>a.glif</string>
     <key>b</key>
@@ -58,6 +112,24 @@
     <string>f.glif</string>
     <key>g</key>
     <string>g.glif</string>
+    <key>h</key>
+    <string>h.glif</string>
+    <key>i</key>
+    <string>i.glif</string>
+    <key>j</key>
+    <string>j.glif</string>
+    <key>k</key>
+    <string>k.glif</string>
+    <key>l</key>
+    <string>l.glif</string>
+    <key>m</key>
+    <string>m.glif</string>
+    <key>n</key>
+    <string>n.glif</string>
+    <key>o</key>
+    <string>o.glif</string>
+    <key>p</key>
+    <string>p.glif</string>
     <key>space</key>
     <string>space.glif</string>
   </dict>

@@ -1,6 +1,7 @@
 
 
-@GDEF_Simple = [\A \A.0 \A.1 \B \B.0 \B.1 \C \C.0 \C.1 \a \b \c \space ];
+@GDEF_Simple = [\A \A.0 \A.1 \B \B.0 \B.1 \C \C.0 \C.1 \D \D.0 \D.1 \E \E.0 \E.1 \F \F.0 \F.1 
+	\G \G.0 \G.1 \H \H.0 \H.1 \I \I.0 \I.1 \a \b \c \d \e \f \g \space ];
 
 table GDEF {
   GlyphClassDef @GDEF_Simple, , , ;

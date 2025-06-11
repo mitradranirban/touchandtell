@@ -1,4 +1,4 @@
- <?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <ttFont sfntVersion="\x00\x01\x00\x00" ttLibVersion="4.55">
 
   <CPAL>
@@ -38,6 +38,42 @@
      <ColorGlyph name="G">
       <layer colorID="0" name="G.0"/>
       <layer colorID="1" name="G.1"/>
+    </ColorGlyph>
+     <ColorGlyph name="H">
+      <layer colorID="0" name="H.0"/>
+      <layer colorID="1" name="H.1"/>
+    </ColorGlyph>
+     <ColorGlyph name="I">
+      <layer colorID="0" name="I.0"/>
+      <layer colorID="1" name="I.1"/>
+    </ColorGlyph>
+     <ColorGlyph name="J">
+      <layer colorID="0" name="J.0"/>
+      <layer colorID="1" name="J.1"/>
+    </ColorGlyph>
+     <ColorGlyph name="K">
+      <layer colorID="0" name="K.0"/>
+      <layer colorID="1" name="K.1"/>
+    </ColorGlyph>
+    <ColorGlyph name="L">
+      <layer colorID="0" name="L.0"/>
+      <layer colorID="1" name="L.1"/>
+    </ColorGlyph>
+    <ColorGlyph name="M">
+      <layer colorID="0" name="M.0"/>
+      <layer colorID="1" name="M.1"/>
+    </ColorGlyph>
+     <ColorGlyph name="N">
+      <layer colorID="0" name="N.0"/>
+      <layer colorID="1" name="N.1"/>
+    </ColorGlyph>
+     <ColorGlyph name="O">
+      <layer colorID="0" name="O.0"/>
+      <layer colorID="1" name="O.1"/>
+    </ColorGlyph>
+     <ColorGlyph name="P">
+      <layer colorID="0" name="P.0"/>
+      <layer colorID="1" name="P.1"/>
     </ColorGlyph>
   </COLR>
 

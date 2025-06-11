@@ -7,7 +7,7 @@
     <key>capHeight</key>
     <integer>1500</integer>
     <key>descender</key>
-    <integer>-500</integer>
+    <integer>-548</integer>
     <key>familyName</key>
     <string>Touch and Tell</string>
     <key>guidelines</key>
@@ -15,7 +15,7 @@
     <key>italicAngle</key>
     <real>0.0</real>
     <key>openTypeHeadCreated</key>
-    <string>2025/06/08 07:23:57</string>
+    <string>2025/06/09 05:44:41</string>
     <key>openTypeHheaAscender</key>
     <integer>1930</integer>
     <key>openTypeHheaDescender</key>
@@ -23,7 +23,7 @@
     <key>openTypeHheaLineGap</key>
     <integer>0</integer>
     <key>openTypeNameDescription</key>
-    <string>Flashcard to teach basic latin alphabet</string>
+    <string>Variable font that can be used as a Flashcard to teach basic English alphabet</string>
     <key>openTypeNameDesigner</key>
     <string>Anirban Mitra</string>
     <key>openTypeNameDesignerURL</key>
@@ -62,9 +62,9 @@
     <key>openTypeOS2WinDescent</key>
     <integer>410</integer>
     <key>postscriptFontName</key>
-    <string>Untitled</string>
+    <string>TouchandTell-Regular</string>
     <key>postscriptFullName</key>
-    <string>Untitled</string>
+    <string>Touch and Tell Regular</string>
     <key>postscriptUnderlinePosition</key>
     <integer>0</integer>
     <key>postscriptUnderlineThickness</key>
