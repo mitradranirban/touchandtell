@@ -75,6 +75,30 @@
       <layer colorID="0" name="P.0"/>
       <layer colorID="1" name="P.1"/>
     </ColorGlyph>
+    <ColorGlyph name="Q">
+      <layer colorID="0" name="Q.0"/>
+      <layer colorID="1" name="Q.1"/>
+    </ColorGlyph>
+    <ColorGlyph name="R">
+      <layer colorID="0" name="R.0"/>
+      <layer colorID="1" name="R.1"/>
+    </ColorGlyph>
+    <ColorGlyph name="S">
+      <layer colorID="0" name="S.0"/>
+      <layer colorID="1" name="S.1"/>
+    </ColorGlyph>
+    <ColorGlyph name="T">
+      <layer colorID="0" name="T.0"/>
+      <layer colorID="1" name="T.1"/>
+    </ColorGlyph>
+    <ColorGlyph name="U">
+      <layer colorID="0" name="U.0"/>
+      <layer colorID="1" name="U.1"/>
+    </ColorGlyph>
+    <ColorGlyph name="V">
+      <layer colorID="0" name="V.0"/>
+      <layer colorID="1" name="V.1"/>
+    </ColorGlyph>
   </COLR>
 
 </ttFont>

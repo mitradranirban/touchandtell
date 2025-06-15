@@ -98,6 +98,34 @@
     <string>P_.0.glif</string>
     <key>P.1</key>
     <string>P_.1.glif</string>
+    <key>Q</key>
+    <string>Q_.glif</string>
+    <key>Q.0</key>
+    <string>Q_.0.glif</string>
+    <key>Q.1</key>
+    <string>Q_.1.glif</string>
+    <key>R.0</key>
+    <string>R_.0.glif</string>
+    <key>R.1</key>
+    <string>R_.1.glif</string>
+    <key>S.0</key>
+    <string>S_.0.glif</string>
+    <key>S.1</key>
+    <string>S_.1.glif</string>
+    <key>T</key>
+    <string>T_.glif</string>
+    <key>T.0</key>
+    <string>T_.0.glif</string>
+    <key>T.1</key>
+    <string>T_.1.glif</string>
+    <key>U.0</key>
+    <string>U_.0.glif</string>
+    <key>U.1</key>
+    <string>U_.1.glif</string>
+    <key>V.0</key>
+    <string>V_.0.glif</string>
+    <key>V.1</key>
+    <string>V_.1.glif</string>
     <key>a</key>
     <string>a.glif</string>
     <key>b</key>
@@ -130,5 +158,7 @@
     <string>o.glif</string>
     <key>p</key>
     <string>p.glif</string>
+    <key>t</key>
+    <string>t.glif</string>
   </dict>
 </plist>
