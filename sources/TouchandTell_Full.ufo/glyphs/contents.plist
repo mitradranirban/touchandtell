@@ -126,6 +126,24 @@
     <string>V_.0.glif</string>
     <key>V.1</key>
     <string>V_.1.glif</string>
+    <key>W.0</key>
+    <string>W_.0.glif</string>
+    <key>W.1</key>
+    <string>W_.1.glif</string>
+    <key>X.0</key>
+    <string>X_.0.glif</string>
+    <key>X.1</key>
+    <string>X_.1.glif</string>
+    <key>Y</key>
+    <string>Y_.glif</string>
+    <key>Y.0</key>
+    <string>Y_.0.glif</string>
+    <key>Y.1</key>
+    <string>Y_.1.glif</string>
+    <key>Z.0</key>
+    <string>Z_.0.glif</string>
+    <key>Z.1</key>
+    <string>Z_.1.glif</string>
     <key>a</key>
     <string>a.glif</string>
     <key>b</key>

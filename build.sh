@@ -1,7 +1,7 @@
 #!/bin/bash
 
 fontmake -m sources/TouchandTell.designspace -o variable
-# rm sources/ttx/TouchandTell-VF.ttx 
+rm sources/ttx/TouchandTell-VF.ttf
 cd sources/ttx 
 cp ../../variable_ttf/TouchandTell-VF.ttf .
 ttx -m TouchandTell-VF.ttf TouchandTell-COLR.ttx

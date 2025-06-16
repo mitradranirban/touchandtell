@@ -90,5 +90,11 @@
       <point x="1911" y="637" type="line"/>
       <point x="1911" y="806" type="line"/>
     </contour>
+    <contour>
+      <point x="1125" y="1009" type="line"/>
+      <point x="1098" y="1009" type="line"/>
+      <point x="1098" y="349" type="line"/>
+      <point x="1125" y="349" type="line"/>
+    </contour>
   </outline>
 </glyph>

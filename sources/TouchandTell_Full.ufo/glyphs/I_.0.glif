@@ -3,34 +3,34 @@
   <advance width="2048"/>
   <outline>
     <contour>
-      <point x="283" y="1569" type="line"/>
-      <point x="283" y="1021" type="line"/>
-      <point x="414" y="1021" type="line"/>
-      <point x="414" y="1569" type="line"/>
+      <point x="337" y="1733" type="line"/>
+      <point x="337" y="1002" type="line"/>
+      <point x="512" y="1002" type="line"/>
+      <point x="512" y="1733" type="line"/>
     </contour>
     <contour>
-      <point x="753" y="1577" type="line"/>
-      <point x="753" y="1477" type="line"/>
-      <point x="883" y="1477" type="line"/>
-      <point x="883" y="1577" type="line"/>
+      <point x="964" y="1743" type="line"/>
+      <point x="964" y="1610" type="line"/>
+      <point x="1137" y="1610" type="line"/>
+      <point x="1137" y="1743" type="line"/>
     </contour>
     <contour>
-      <point x="753" y="1382" type="line"/>
-      <point x="753" y="1021" type="line"/>
-      <point x="885" y="1021" type="line"/>
-      <point x="885" y="1382" type="line"/>
+      <point x="964" y="1484" type="line"/>
+      <point x="964" y="1002" type="line"/>
+      <point x="1140" y="1002" type="line"/>
+      <point x="1140" y="1484" type="line"/>
     </contour>
     <contour>
-      <point x="140" y="1597" type="line"/>
-      <point x="140" y="1467" type="line"/>
-      <point x="583" y="1467" type="line"/>
-      <point x="583" y="1597" type="line"/>
+      <point x="146" y="1770" type="line"/>
+      <point x="146" y="1597" type="line"/>
+      <point x="736" y="1597" type="line"/>
+      <point x="736" y="1770" type="line"/>
     </contour>
     <contour>
-      <point x="131" y="1149" type="line"/>
-      <point x="131" y="1018" type="line"/>
-      <point x="574" y="1018" type="line"/>
-      <point x="574" y="1149" type="line"/>
+      <point x="134" y="1172" type="line"/>
+      <point x="134" y="998" type="line"/>
+      <point x="725" y="998" type="line"/>
+      <point x="725" y="1172" type="line"/>
     </contour>
   </outline>
 </glyph>

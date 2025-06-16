@@ -99,6 +99,26 @@
       <layer colorID="0" name="V.0"/>
       <layer colorID="1" name="V.1"/>
     </ColorGlyph>
+    <ColorGlyph name="W">
+      <layer colorID="0" name="W.0"/>
+      <layer colorID="1" name="W.1"/>
+    </ColorGlyph>
+    <ColorGlyph name="X">
+      <layer colorID="0" name="X.0"/>
+      <layer colorID="1" name="X.1"/>
+    </ColorGlyph>
+    <ColorGlyph name="Y">
+      <layer colorID="0" name="Y.0"/>
+      <layer colorID="1" name="Y.1"/>
+    </ColorGlyph>
+    <ColorGlyph name="Y">
+      <layer colorID="0" name="Y.0"/>
+      <layer colorID="1" name="Y.1"/>
+    </ColorGlyph>
+    <ColorGlyph name="Y">
+      <layer colorID="0" name="Y.0"/>
+      <layer colorID="1" name="Y.1"/>
+    </ColorGlyph>
   </COLR>
 
 </ttFont>
